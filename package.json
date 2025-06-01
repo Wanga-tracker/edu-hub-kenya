@@ -1,0 +1,13 @@
+{
+  "name": "brighthiveafrica",
+  "version": "1.0.0",
+  "description": "Education platform for African students",
+  "scripts": {
+    "start": "firebase emulators:start",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^11.8.1",
+    "swiper": "^11.1.14"
+  }
+}
